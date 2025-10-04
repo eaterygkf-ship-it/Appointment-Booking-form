@@ -7,7 +7,7 @@ export default function Page() {
       <div className="w-full max-w-xl">
         <Card className="bg-card text-card-foreground">
           <CardHeader>
-            <CardTitle className="text-balance">Book an Appointment</CardTitle>
+            <CardTitle className="text-balance">Book an Appointments</CardTitle>
             <CardDescription className="text-muted-foreground">
               All fields are required. A confirmation email will be sent upon successful booking.
             </CardDescription>
